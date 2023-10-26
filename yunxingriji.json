@@ -1,64 +1,64 @@
 {
-  "spider": "./1694435460.txt;md5;4d1c769684cc9b85f8adf54f8b43abb6",
-  "lives": [
+    "spider" : "./1694435460.txt;md5;4d1c769684cc9b85f8adf54f8b43abb6" , "spider" : "./1694435460.txt;md5;4d1c769684cc9b85f8adf54f8b43abb6" ,
+       "lives" : [
     {
-      "group": "redirect",
-      "channels": [
+           "group" : "redirect" ,
+           "channels" : [
         {
-          "name": "live",
-          "urls": [
+               "name" : "live" ,
+               "urls" : [
             "proxy://do=live&type=txt&ext=aHR0cDovL2l0dmJveC5jYy90dmJveC96aGliby8xLnR4dA=="
           ]
         }
       ]
     }
-  ],
-  "warningText": "接口由公众号【云星日记】免费提供",
-  "wallpaper": "http://maoyingshi.cc/api.php",
-  "sites": [
+       ] ,
+       "warningText" : "接口免费提供" ,
+      "wallpaper" : "http://maoyingshi.cc/api.php" ,
+    "sites" : [  "sites" : [
+      {  {
+        "key" : "js豆瓣" ,"key" : "js豆瓣" ,
+         "name" : "一八八七四五九" ,
+         "type" : 3 ,
+         "api" : "./lib/drpy2.min.js" ,
+         "ext" : "./lib/douban.js"
+       } ,
     {
-      "key": "js豆瓣",
-      "name": "🐼豆瓣推荐 |Q群：582874559",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/douban.js"
-    },
+         "key" : "csp_77" ,
+         "name" : 《七七四》 ,
+         "type" : 3 ,
+         "api" : "csp_Kunyu77" ,
+         "searchable" : 1 ,
+        "quickSearch" : 1 , "quickSearch" : 1 ,
+        "filterable" : 1  "filterable" : 1
+        } ,
     {
-      "key": "csp_77",
-      "name": "👒七七App",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+          "key" : "荐片" ,
+          "name" : "新一代" ,
+          "type" : 3 ,
+          "playerType" : 1 ,
+          "api" : "./lib/drpy2.min.js" ,
+          "ext" : "./lib/荐片.js" ,
+          "searchable" : 1 ,
+          "quickSearch" : 1 ,
+          "filterable" : 1
+        } ,
     {
-      "key": "荐片",
-      "name": "💁🏻‍♂️荐片磁力",
-      "type": 3,
-      "playerType": 1,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/荐片.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "直播转点播1",
-      "name": "📡电视直播",
-      "type": 3,
-      "api": "./lib/直播转点播.js",
-      "ext": "./lib/直播.txt"
-    },
-    {
-      "key": "csp_BLSGod",
-      "name": "🧲80S影视",
-      "type": 3,
-      "api": "csp_BLSGod",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+          "key" : "直播转点播1" ,
+         "name" : "电子商务" ,
+        "type" : 3 , "type" : 3 ,
+        "api" : "./lib/直播转点播.js" , "api" : "./lib/直播转点播.js" ,
+        "ext" : "./lib/直播.txt"  "ext" : "./lib/直播.txt"
+      } , } ,
+    {{
+      "key": "csp_BLSGod","key": "csp_BLSGod",
+      "名字":"好莱坞80S欧尔斯","name": "🧲80S影视",
+      "type": 3,"type": 3,
+      "api": "csp_BLSGod","api": "csp_BLSGod",
+      "playerType": 1,"playerType": 1,
+      "searchable": 1,"searchable": 1,
+      "quickSearch": 1,"quickSearch": 1,
+      "filterable": 1,"filterable": 1,
       "jar": "./lib/Hk.jar;md5;566e51fb1be76de5f1de4f6b6cdb1a65"
     },
     {
