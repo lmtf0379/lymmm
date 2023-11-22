@@ -2,50 +2,50 @@
 
 
 {
-	"spider": "https://raw.githubusercontent.com/lmtf0379/lymmm/main/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5",
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-	"lives": [{
-		    "name": "live",
-		    "type": 0,
-		    "url": "https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/ysclive.txt",
-		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-                    "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    }],
+	“蜘蛛”：“https://ghproxy.com/https://raw.githubusercontent.com/lmtf 0  379 /lymmm/main/YSC.jar;md 5 ; 5e6 b 85 d 785 a 99 b 75023824e9 bd 3e9 ce 5 ”，
+	"壁纸" : "https://tuapi.eees.cc/api.php?category=fengjing&type=302" ,
+	“生活”：[    {
+		    “姓名”：“居住”，
+		    “类型”：0，
+		    “网址”：“https://ghproxy.com/https://raw.githubusercontent.com/lmtf 0  379 /lymmm/main/lib/ysclive.txt”，
+		    "epg" : "http://epg.112114.xyz/?ch={name}&date={date}" ,
+                    “标志”：“https://epg. 112114 .xyz/logo/ {名称} .png ”
+	    }  ] ,
 
-	"sites":[
-{"key":"豆瓣","name":"🔍豆瓣荐片","type":3,"api":"https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/douban.js"},
-{ "key" : "纸条" , "name" : "🖥纸条搜索" , "type" : 3 , "api" : "csp_Paper" , "可搜索" : 1 , "可过滤" : 1 , "可更改" : 0 , "jar" : "https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/ali.jar" } ,
-{"key":"阿里云盘","name": "🖥阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"jar":"https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/ali.jar"},
-{ "key" : "易搜" , "name" : "🖥易搜" , "type" : 3 , "api" : "csp_YiSo" , "可搜索" : 1 , "可过滤" : 0 , "可更改" : 0 , "jar" : "https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/ali.jar" } ,
-{ "key" : "盘搜" , "name" : "🖥盘搜" , "type" : 3 , "api" : "csp_PanSou" , "可搜索" : 1 , "可过滤" : 0 , "可更改" : 0 , "jar" : "https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/ali.jar" } ,
-{ "key" : "UP云搜" , "name" : "🖥UP云搜" , "type" : 3 , "api" : "csp_UpYun" , "可搜索" : 1 , "可过滤" : 0 , "可更改" : 0 , "jar" : "https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/ali.jar" } ,
-{"key":"找资源","name": "🖥找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar":"https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/ali.jar"},
-{ "key" : "网盘搜索" , "name" : "🖥网盘搜索" , "type" : 3 , "api" : "csp_PanSearch" , "可搜索" : 1 , "可过滤" : 1 , "可更改" : 0 , "jar" : "./lib/ali.jar" } ,
+	“网站”：[
+{  "key" : "豆瓣" , "名称" : "🔍豆瓣荐片" , "类型" : 3 , "api" : "https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/drpy2 . min.js", "可搜索" : 0 , "quickSearch" : 0 , "可过滤" : 0 , "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/lmtf 0  379 /lymmm/main/lib /douban.js ” } ,
+{   "key" : "纸条" , "name" : "🖥纸条搜索" , "type" : 3 , "api" : "csp_Paper" , "可搜索" : 1 , "可过滤" : 1 , "可更改" : 0 , "jar" : "https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/ali.jar"   } ,
+{  "key" : "阿里云盘" , "name" : "🖥阿里云盘" , "type" : 3 , "api" : "csp_Dovx" , "可搜索" : 1 , "可过滤" : 0 , "可更改" : 0 , "jar" : "https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/ali.jar"    } ,
+{      "key" : "易搜" , "name" : "🖥易搜" , "type" : 3 , "api" : "csp_YiSo" , "可搜索" : 1 , "可过滤" : 0 , "可更改“：0，“jar”：“https://ghproxy.com/https://raw.githubusercontent.com/lmtf 0  379 /lymmm/main/lib/ali.jar”      } ,
+{     "key" : "盘搜" , "name" : "🖥盘搜" , "type" : 3 , "api" : "csp_PanSou" , "可搜索" : 1 , "可过滤" : 0 , "可更改" : 0 , "jar" : "https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/ali.jar"    } ,
+{    "key" : "UP云搜" , "name" : "🖥UP云搜" , "type" : 3 , "api" : "csp_UpYun" , "可搜索" : 1 , "可过滤" : 0 , “可更改”：0，“jar”：“https://ghproxy.com/https://raw.githubusercontent.com/lmtf 0  379 /lymmm/main/lib/ali.jar”   } ,
+{  "key" : "寻找资源" , "名称" : "🖥找资源" , "类型" : 3 , "api" : "csp_Zhaozy" , "可搜索" : 1 , "可过滤" : 0 , "可更改" : 0、“分机”：“http: //127.0。0 . 0     0.1 : 9978 /file/tvbox/token.txt”、“jar”：“https://ghproxy.com/https://raw.githubusercontent.com/lmtf 0      379 /lymmm/main/lib/ali.jar” } ,
+{          "key" : "网盘搜索" , "名称": "🖥网盘搜索" , "类型" : 3 , "api" : "csp_PanSearch" , "可搜索" : 1 , "可过滤" : 1 , "可更改" : 0 , "jar" : "./ lib/ali.jar”           } ,
 
-{ "key" : "土拨鼠" , "name" : "🖥土拨鼠搜索" , "type" : 3 , "api" : "csp_XYQHiker" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤的" : 1 , "ext" : "https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/tuboshu.json" } ,
-{ "key" : "我的小站" , "name" : "🖥小站搜索" , "type" : 3 , "api" : "csp_XYQHikerAL" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤" : 1 , "ext" : "https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/xiaozhan.json" } ,
-{ "key" : "云盘分享" , "名称" : "🖥云盘分享" , "类型" : 3 , "api" : "csp_XYQBiu" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤" : 1 , "ext" : "https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/yunpanfenshan.json" } ,
-{ "key" : "push_agent" , "name" : "🍭主动" , "type" : 3 , "api" : "csp_Push" , "searchable" : 0 , "quickSearch" : 0 , "filterable" : "0 ” } ,
-{ "key" : "兔小贝" , "name" : "🐰兔小贝" , "type" : 3 , "api" : "./lib/drpy2.min.js" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤" : 1 , "ext" : "https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/tuxiaobei.js" } ,
-{ "key" : "高中教育" , "name" : "📚学习园地" , "type" : 3 , "api" : "csp_Bili" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤" : 1 , "ext" : "https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/Blixt.json" } ,
-{ "key" : "学外语" , "name" : "📚学外语" , "type" : 3 , "api" : "csp_Bili" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤" : 1 , "ext" : "https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/waiyu.json" } ,
+{           "key" : "土拨鼠" , "name" : "🖥土拨鼠搜索" , "type" : 3 , "api" : "csp_XYQHiker" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤的" : 1 , "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/tuboshu.json"          } ,
+{         "key" : "我的小站" , "name" : "🖥小站搜索" , "type" : 3 , "api" : "csp_XYQHikerAL" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤" : 1 , "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/xiaozhan.json"        } ,
+{       "key" : "云盘分享" , "名称" : "🖥云盘分享" , "类型" : 3 , "api" : "csp_XYQBiu" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤" : 1 , "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/yunpanfenshan.json"      } ,
+{     "key" : "push_agent" , "name" : "🍭主动" , "type" : 3 , "api" : "csp_Push" , "searchable" : 0 , "quickSearch" : 0 , "filterable" : " 0 ” } ,
+{     "key" : "兔小贝" , "name" : "🐰兔小贝" , "type" : 3 , "api" : "./lib/drpy2.min.js" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤" : 1 , "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/tuxiaobei.js"    } ,
+{  {    "key" : "高中教育" , "name" : "📚学习园地" , "type" : 3 , "api" : "csp_Bili" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤“ ：1，“ext”：“https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/Blixt.json” }, " key" : "高中教育" , "name" : "📚学习园地”,“类型”：3  ，“api”：“csp_Bili”，"可搜索" : 1 , "quickSearch" : 1 , "可过滤" : 1 , "分机" :“https://raw.githubusercontent.com/lmtf 0  379 /lymmm/main/lib/Blixt.json” } ,
+{   {      "key" : "学外语" , "name" : "📚学外语" , "type" : 3 , "api" : "csp_Bili" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤"：1，“ext”：“https://ghproxy.com/https://raw.githubusercontent.com/lmtf 0   379 /lymmm/main/lib/waiyu.json” } , "key" : "学外语" , "name" : " 📚学外语”，“类型”：3，“api”：“csp_Bili”，“可搜索” : 1 , “quickSearch” : 1, “可过滤” : 1 , “分机” :“https://raw.githubusercontent.com/ lmtf 0   379 /lymmm/main/lib/waiyu.json” } ,
 
-{ "key" : "哔哩哔哩" , "名称" : "🅱️哔哩哔哩大全" , "类型" : 3 , "api" : "csp_Bili" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤" : 1 , "ext" : "https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/Bili.json" } ,
-{"key":"相声小品","name":"🏮相声小品","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/Blixs.json"},
-{"key": "戏 曲" ,"name": "🎈国粹戏曲","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/Blixq.json"},
+{    {      "key" : "哔哩哔哩" , "名称" : "🅱️哔哩哔哩大全" , "类型" : 3 , "api" : "csp_Bili" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤" : 1 , "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/Bili.json"    } , "key" : "哔哩哔哩" , "名称" : "🅱️哔哩哔哩大全","类型" : 3 , "api" : "csp_Bili" ,"可搜索" : 1 , "quickSearch" : 1 , "可过滤" : 1 , "ext" : "https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/Bili.json" } ,
+{   "key"     {      "key" : "相声小品" , "name" : "🏮相声小品" , "type" : 3 , "api" : "csp_Bili" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤“：1，“ext”：“https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/Blixs.json” } , "相声小品" , "name" :"🏮相声小品" ,“类型”：3，“api”：1，“quickSearch”：1，“可过滤”：1，“ext”：“https://raw.githubusercontent.com/lmtf 0   379/lymmm/main/lib/Blixs.json” } ,
+{    《戏曲      》{      "key" : "戏曲" , "名称" : "🎈国粹戏曲" , "type" : 3 , "api" : "csp_Bili" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤" : 1 , "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/Blixq.json"     } ,
 
-{"key":"演唱会","name":"🎸演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/yanchanghui.txt"},
-{"key":"csp_XBPQ_短视频","name":"☘️短视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/duanshipin.json"},
-{"key":"88看球","name":"⚽88看球","type":3,"api":"https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/88kanqiu.js"},
-{"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/jrkan.json"},
-{"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/huyazhibo.js"},
-{"key":"斗鱼直播","name":"🐟斗鱼直播","type":3,"api":"https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/douyu.js"},{"key":"csp_Yj1211","name":"📽️在线直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"哔哩直播","name":"🅱️哔哩直播","type":3,"api":"https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/blzb.js"},
-{ "key": "MV_vod", "name": "🎸明星┃MV", "type": 1, "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{"key":"csp_xpath_kuqimv","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/kuqimv.json"}
-],
-"parses": [{ 
-         "name": "并发", 
+{    "key" : "演唱会" , "name" : "🎸演唱会" , "type" : 3 , "api" : "csp_Bili" , "可搜索" : 1 , "quickSearch" : 1 , "filterable" : 1 , "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/yanchanghui.txt"       } , “演唱会” , “名称” : "🎸演唱会" ,“类型” ：3，“api”："csp_Bili"
+{ "key" "csp_XBPQ_短视频" "名称" "类型" "api" "可搜索" "快速搜索" "可过滤" " ext" { "key" : " csp_XBPQ_短视频" , "名称" : "☘️短视频" , "类型" : 3 , "api" : "csp_XBPQ" , "可搜索" : 0 , "quickSearch" : 0 , "可过滤" : 1 , "ext" : "https://raw .githubusercontent.com/lmtf0379/lymmm/main/lib/duanshipin.json”} ,,: "☘️短视频" ,: 3 ,: "csp_XBPQ" ,: 0 ,:0 ,: 1 ,:“https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/duanshipin.json”"name""☘️短视频","type""api""csp_XBPQ","searchable""quickSearch""filterable""ext""https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/duanshipin.json"
+"key""key""88看球""name""⚽88看球","type""searchable""quickSearch""filterable""ext""https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/88kanqiu.js"
+"key""key""JRKAN直播""name""type""api""searchable""quickSearch""filterable""ext""https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/jrkan.json"
+"name""type""api""searchable""quickSearch""filterable""ext"
+"可搜索":0,"quickSearch":0,"可过滤":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/douyu.js"},{"key ":"csp_Yj1211","名称":"📽️在线直播","类型":3,"api":"csp_Yj1211","可搜索":0,"quickSearch":0,"可过滤":1}"quickSearch""filterable""ext"，“api”：“csp_Yj1211”，“可搜索”：0，“quickSearch”：0，“可过滤”：1 }，
+{ "key" : "哔哩直播" , "名称" : "🅱️哔哩直播" , "类型" : 3 , "api" : "https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib /drpy2.min.js"、"可搜索"：0、"quickSearch"：0、"可过滤"：1、"ext"："https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/blzb .js" } ,
+{  "key" : "MV_vod" , "名称" : "🎸明星┃MV" , "类型" : 1 , "api" : "https://tvbox-mv--leosam2048.repl.co/mv/vod" , “可搜索” : 1 , “快速搜索” : 1 , “可过滤” : 1  } ,
+{ "key" : "csp_xpath_kuqimv" , "name" : "🎤酷奇MV" , "type" : 3 , "api" : "csp_XPath" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤" : 1、“ext”：“https://ghproxy.com/https://raw.githubusercontent.com/lmtf0379/lymmm/main/lib/kuqimv.json” }
+] ,
+“解析”: [ { 
+         "名称" : "并发" ,
          "type": 3, 
          "url": "Demo" 
     },{ 
